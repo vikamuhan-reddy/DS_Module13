@@ -12,7 +12,7 @@ To write a recursive Java program to find and display the N-th Fibonacci number.
 6. Display the result
 7. End
 
-## Program, Output, and Result:
+## Program:
 ```java
 import java.util.Scanner;
 
